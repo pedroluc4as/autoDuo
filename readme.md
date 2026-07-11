@@ -1,8 +1,8 @@
-# 🦉 autoDuo (Web Edition)
+# 🦉 autoDuo
 
 ![Interface do autoDuo](img.png)
 
-Bem-vindo ao **autoDuo**, um agente autônomo movido a Inteligência Artificial (Visão Computacional) que joga Duolingo diretamente no seu navegador. 
+Bem-vindo ao **autoDuo**, um agente autônomo movido a Inteligência Artificial (Visão Computacional) que joga Duolingo diretamente no seu navegador.
 
 Feito para rodar liso no desktop, este projeto abandonou as dores de cabeça de automação mobile e foca em uma abordagem direta e moderna: o robô **lê a tela como um humano** usando o Gemini 2.0 e executa as ações usando Playwright. Desenvolvido com muita dedicação, código limpo e a fé de que a automação perfeita existe! 🙏
 
