@@ -1,0 +1,4 @@
+autoDuoDesk/sessao_duolingo/
+.venv/
+__pycache__/
+.env
