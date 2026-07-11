@@ -25,3 +25,13 @@ Feito para rodar liso no desktop, este projeto abandonou as dores de cabeça de 
    ```bash
    python3 -m venv .venv
    source .venv/bin/activate
+
+## ⚠️ Aviso Legal e Ético (Disclaimer)
+
+Este projeto foi desenvolvido **estritamente para fins educacionais e de pesquisa acadêmica**, servindo como uma Prova de Conceito (PoC) técnica para explorar as capacidades de integração entre Inteligência Artificial Multimodal e Automação de Processos (RPA).
+
+* **Zero intenção de trapaça:** Este repositório não incentiva, facilita ou endossa a quebra dos Termos de Serviço do Duolingo, nem a obtenção desonesta de XP ou vantagens na plataforma. 
+* **Valorize o aprendizado real:** O aprendizado genuíno de um idioma exige esforço humano, disciplina e honestidade. O código aqui disponibilizado é puramente um experimento prático de engenharia de software.
+* **Responsabilidade:** O uso deste material é de responsabilidade única e exclusiva de quem o clona e executa em sua própria máquina. 
+
+Use a tecnologia com sabedoria, ética e para o bem.
